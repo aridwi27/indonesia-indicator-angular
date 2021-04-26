@@ -1,0 +1,28 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+.header {
+  height: 100px;
+  color: black;
+  background-color: #f3fdfb;
+}
+
+.example-container {
+  width: 100%;
+  height: 100%;
+}
+
+.content {
+  height: auto;
+  background-color: #d8e3e7;
+}
+
+.sidenav {
+  padding: 10px;
+}
+.icon {
+  width: 40px;
+}
+
+.menu {
+  margin-top: 150%;
+}
